@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/images/computer.png"
+  },
+  {
+    "id": 2,
+    "name": "BTC",
+    "price": 100000,
+    "imgUrl": "/images/BTC.png"
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/images/book.png"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/images/banana.png"
+  },
+  {
+    "id": 5,
+    "name": "Pet food",
+    "price": 25.65,
+    "imgUrl": "/images/pet.png"
+  },
+  {
+    "id": 6,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "/images/car.png"
+  }
+]
