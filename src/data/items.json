@@ -3,36 +3,36 @@
     "id": 1,
     "name": "Computer",
     "price": 1199,
-    "imgUrl": "/images/computer.png"
+    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/6730070/J0Yua7hMFfk1OxYYffjQAw1044/ocr"
   },
   {
     "id": 2,
     "name": "BTC",
     "price": 100000,
-    "imgUrl": "/images/BTC.png"
+    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/903632/OI9zpPK2Pz6_wm7eY7VEBQ808/ocr"
   },
   {
     "id": 3,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "/images/book.png"
+    "imgUrl": "https://miro.medium.com/max/1400/1*TP25t-WrSRdIKszudngUYQ.jpeg"
   },
   {
     "id": 4,
     "name": "Banana",
     "price": 1.05,
-    "imgUrl": "/images/banana.png"
+    "imgUrl": "https://918806.smushcdn.com/2286610/wp-content/uploads/2022/04/rodrigo-dos-reis-DkTuGvgPotA-unsplash-1-768x1365.jpg?lossy=0&strip=1&webp=1"
   },
   {
     "id": 5,
     "name": "Pet food",
     "price": 25.65,
-    "imgUrl": "/images/pet.png"
+    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/3890460/Mz-RWjfOrjp9aWOxKVOfdw922/ocr"
   },
   {
     "id": 6,
     "name": "Car",
     "price": 14000,
-    "imgUrl": "/images/car.png"
+    "imgUrl": "https://mmnkhousingsolutions.com/wp-content/uploads/2021/05/sewa-mobil-1200x675.jpg"
   }
 ]
