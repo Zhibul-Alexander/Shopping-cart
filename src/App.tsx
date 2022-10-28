@@ -15,9 +15,11 @@ function App() {
       <Navbar/>
       <Container className="mb-4">
         <Routes>
-          <Route path="/home" element={<Home/>}/>
-          <Route path="/store" element={<Store/>}/>
-          <Route path="/about" element={<About/>}/>
+          <Route path="/Shopping-cart/home" element={<Home/>}/>
+          <Route path="/Shopping-cart/store" element={<Store/>}/>
+          <Route path="/Shopping-cart/about" element={<About/>}/>
+
+          <Route path="/Shopping-cart/" element={<Store/>}/>
         </Routes>
       </Container>
     </ShoppingCartProvider>
