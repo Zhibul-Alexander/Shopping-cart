@@ -3,36 +3,36 @@
     "id": 1,
     "name": "Computer",
     "price": 1199,
-    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/6730070/J0Yua7hMFfk1OxYYffjQAw1044/ocr"
+    "imgUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
   },
   {
     "id": 2,
     "name": "BTC",
     "price": 100000,
-    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/903632/OI9zpPK2Pz6_wm7eY7VEBQ808/ocr"
+    "imgUrl": "https://images.unsplash.com/photo-1590285836796-f772deafabfc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
   },
   {
     "id": 3,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "https://miro.medium.com/max/1400/1*TP25t-WrSRdIKszudngUYQ.jpeg"
+    "imgUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
   },
   {
     "id": 4,
     "name": "Banana",
     "price": 1.05,
-    "imgUrl": "https://918806.smushcdn.com/2286610/wp-content/uploads/2022/04/rodrigo-dos-reis-DkTuGvgPotA-unsplash-1-768x1365.jpg?lossy=0&strip=1&webp=1"
+    "imgUrl": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
   },
   {
     "id": 5,
     "name": "Pet food",
     "price": 25.65,
-    "imgUrl": "https://avatars.mds.yandex.net/get-images-cbir/3890460/Mz-RWjfOrjp9aWOxKVOfdw922/ocr"
+    "imgUrl": "https://images.unsplash.com/photo-1616668983570-a971956d8928?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80"
   },
   {
     "id": 6,
     "name": "Car",
     "price": 14000,
-    "imgUrl": "https://mmnkhousingsolutions.com/wp-content/uploads/2021/05/sewa-mobil-1200x675.jpg"
+    "imgUrl": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"
   }
 ]
